@@ -1,0 +1,25 @@
+@import url("https://cdn.web-fonts.ge/fonts/bpg-nino-mtavruli-bold/css/bpg-nino-mtavruli-bold.min.css");
+
+/*kartuli pontebi*/
+.kartuli-absoluturi {
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
+}
+.kartuli-relatiuri {
+	font-family: 'ALK Life';
+	font-weight: 900;
+	font-style: italic;
+	font-size: 22px;
+}
+
+/*latinuri pontebi*/
+.latinuri-absoluturi {
+	font-family: 'Style Script', cursive;
+
+}
+.latinuri-relatiuri {
+	font-family: 'Roboto';
+	text-transform: uppercase;
+	text-indent: 30px;
+	line-height: 50px;
+	letter-spacing: 5px;
+}
